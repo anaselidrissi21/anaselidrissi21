@@ -1,6 +1,6 @@
 - 👋 Bonjour, moi c'est Anas et je suis Développeur FullStack Javascript
 - 
-- 💻 Je suis actuellement en train de m'initier a React et a Wordpress
+- 💻 Je suis actuellement en train de m'initier a React et a Typescript
 - 
 - 📫 Si mon profil vous interesse n'hesitez pas a me contacter
 
